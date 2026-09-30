@@ -1,0 +1,11 @@
+.bin/
+bin/
+.buildozer/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+.DS_Store
+.idea/
+.vscode/
